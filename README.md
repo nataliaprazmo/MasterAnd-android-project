@@ -2,11 +2,9 @@
 
 A mobile game built in **Android Studio** for my master's studies. MasterAnd is a modern take on the classic **Mastermind** game, where the player must guess a hidden sequence of **4 colors** in the smallest number of attempts possible.
 
-<div align="center">
-    <video src="demo/demo.mp4" controls autoplay muted loop playsinline width="480"> 
-        Your browser does not support the video tag. You can download the demo from <a href="demo/demo.mp4">demo/demo.mp4</a>. 
-    </video>
-</div>
+[![Demo GIF](/demo/demo.gif)](https://res.cloudinary.com/dvaw6nzfv/video/upload/v1756469688/demo1_ju70xt.mp4)
+
+_Click the GIF to watch the full video_
 
 ## Technologies
 
