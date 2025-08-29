@@ -34,7 +34,7 @@ _Click the GIF to watch the full video_
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/MasterAnd.git
+    git clone https://github.com/nataliaprazmo/MasterAnd-android-project.git
     ```
 2. Open the project in **Android Studio**
 
